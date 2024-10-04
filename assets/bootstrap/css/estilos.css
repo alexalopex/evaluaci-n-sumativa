@@ -1,0 +1,21 @@
+.portada{
+    width: 2500px;
+    height: 350px;
+}
+.p_portada{
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+.forma{
+    margin-bottom: 30px;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.logo{
+    width: 100px;
+}
